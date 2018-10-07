@@ -1,5 +1,5 @@
 //HTML
-NiandraMOTD.DefaultWebpage = "http://www.garrysmod.com/"
+NiandraMOTD.DefaultWebpage = "blyat"
 
 //General Design
 NiandraMOTD.MainFrameColour = Color(21,21,21,255) 
